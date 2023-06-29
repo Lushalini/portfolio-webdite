@@ -1,0 +1,24 @@
+# style.css>tebles
+h1{
+    color:aqua;
+}
+thead{
+    color:blue
+}
+tbody{
+    color:blueviolet;
+}-*
+    color::first-line
+h2{
+    color:brown
+    table{
+        border:1px solid blue;
+        : collapse;
+    }
+    th{
+        border:1px solid green
+        padding:4px;
+    }
+    button{
+        background-color:blue;
+        width:200px
